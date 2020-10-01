@@ -1,6 +1,6 @@
 { "Iklan": [
         {
-        "status": "0",
+        "status": "1",
         "link": "https://play.google.com/store/apps/details?id=com.example",
       
         "admobinterid": "ca-app-pub-3940256099942544/1033173712",
@@ -14,7 +14,7 @@
         "status_promote": "0",
         
         "interval": 2,
-        "iklan":"3",
+        "iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",                
