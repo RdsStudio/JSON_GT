@@ -1,0 +1,321 @@
+{
+
+  "urls": [
+    {
+
+      "author": "jigarbov",
+      "description": "Ever wanted to ride bees? No? Well…. now you can anyway! Give them some honey to tame then and you’re on your way through the skies to a new adventure!\n\nBees are now rideable. But you need to tame them first. Tame them with honeycomb, it might take a few tries! Then when you see those loving hearts, you know it’s time to ride.\n\nBees struggle to go uphill when being flown. You are heavy and they are a tiny bee after all. Drag them up a hill with a lead, then set flight over valleys and watch the sunset.\n\nVisit www.jigarbov.net for more cool Minecraft stuff… Want to support me? Head over to the Minecraft Marketplace where I do much more than small addons like this including huge adventures and more! Just search for “Jigarbov”\n\n# How to install\n\n• Download and install the behavior pack\n• Activate the behavior pack in your world settings\n",
+      "img": "http://mcpe.foxcode.org/rideable-bees/s02.jpg",
+      "js": "http://mcpe.foxcode.org/rideable-bees/rideable-bees.mcpack",
+      "title": "Rideable-Bees",
+      "version": "Support Minecraft Version 1.10,1.11,1.12(beta),1.9"
+
+    },
+
+    {
+
+      "author": "Nanatuki",
+
+      "description": "This add-on adds many decorations, more villagers. There is everything from kitchen utensils and bathroom equipment to things like a stove, shower products and entertainment-related things, like a pool table and a PC for games. It is a great addon if you want more options to decorate your home.",
+
+      "img": "https://furniture-mods.s3-ap-southeast-1.amazonaws.com/umak-furniture-living-room-plus/1/umk-furniture-living-room-addon_16.png",
+
+      "js": "https://furniture-mods.s3-ap-southeast-1.amazonaws.com/umak-furniture-living-room-plus/1/Umak+Furniture+-+Living+Room%2B.mcaddon",
+
+      "title": "Umäk Furniture: Living Room+ Add-on",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "MicoLets_MC",
+
+      "description": "This is a really great addon which includes 20+ different furniture. Each furniture has a different use such as sitting or some kind of interaction (e.g. storage or trading). For example, the radio can be used for playing songs and the fridge can be used for storing food items. But the main and most important part is the fact that they look really good and can also be used just as decorations for your builds.",
+
+      "img": "https://furniture-mods.s3-ap-southeast-1.amazonaws.com/mine-furniture-addon/1/mine-furniture-v6-4.jpg",
+
+      "js": "https://furniture-mods.s3-ap-southeast-1.amazonaws.com/mine-furniture-addon/1/Mine-Furniture+Add-On+V6.mcaddon",
+
+      "title": "Mine-Furniture Addon",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "RobertGamer69",
+
+      "description": "This add-on adds many decorations, more villagers. There is everything from kitchen utensils and bathroom equipment to things like a stove, shower products and entertainment-related things, like a pool table and a PC for games. It is a great addon if you want more options to decorate your home. How does it work?\nSince most furniture is an entity, this means that you can easily rotate the furniture in the direction you want. Some furniture, such as chairs and sofas, also have some functionality in that regard so you can sit on them. Currently, all the furniture is in the creative inventory when you search for FURNICRAFT and you will see all the furniture there. Here’s a list of the furniture included with this add-on.\n\n    Trampoline\n    Swing\n    Slide\n    Trampoline for the pool\n    Christmas tree\n    Gamer PC Set\n    Piano\n    Park bench\n    water source\n    Satanic ritual\n    Ceiling fan\n    Pool table\n    Soccer Table\n    Big chewing gum machine\n    Small chewing gum machine\n    Recreational Machine\n    Teddies machine\n    Laptop\n    Bath\n    Sink\n    Toilet\n    Watering can\n    Fridge\n    Stove\n    Microwave over\n    Laundry\n    Trophies\n    shelves and furniture\n    Closet—(16 materials)\n    Beach chairs—(16 colors)\n    Umbrellas—(16 colors)\n    Armchairs—(16 colors)\n    Lamps—(16 colors)\n    Gamer chairs—(16 colors)\n    Beds—(16 colors)\n    chairs—(16 materials)\n    Small tables—(16 materials)\n    Big tables—(16 materials)\n    bench—(16 materials)\n    Players—(16 skins)\n    Tv—(16 texturas)\n    Furniture for Tv—(16 colors)\n    gifts—(16 colors)\n    Etc…",
+
+      "img": "https://relaxing.media/addons/Furnicraft-v11-8/picture1.png",
+
+      "js": "https://relaxing.media/addons/Furnicraft-v11-8/furnicraft-11.mcworld",
+
+      "title": "FURNICRAFT v11.8",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "This map is equipped with many large modern buildings, some are made of redstone, and some are made ordinary.",
+
+      "img": "https://relaxing.media/addons/Special-Modern-House/picture2.png",
+
+      "js": "https://relaxing.media/addons/Special-Modern-House/Special-Modern-House.mcworld",
+
+      "title": "Super Modern House 2 (World) Add-on",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Large modern buildings, fountains, pools, decorations!",
+
+      "img": "https://relaxing.media/addons/Special-Modern-House/picture3.png",
+
+      "js": "https://relaxing.media/addons/Special-Modern-House/Special-Modern-House.mcworld",
+
+      "title": "(World) Modern House Add-on",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Great showcase of what you can build in your Minecraft world.",
+
+      "img": "https://relaxing.media/addons/Special-Modern-House/picture4.png",
+
+      "js": "https://relaxing.media/addons/Special-Modern-House/Special-Modern-House.mcworld",
+
+      "title": "Yet another Modern House World",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "This add-on includes fridges, speakers, computers, phones, smart tables, and more! This add-on even includes features like getting cakes from refrigerators! Your Minecraft house will definitely look fantastic with electronic furniture!",
+
+      "img": "https://furniture-mods.s3-ap-southeast-1.amazonaws.com/electronic-furniture-add-on-ashwin-furniture/electronic-furniture-addon-tv-smart-table-computer-phone--more--ashwinfurniture_6.png",
+
+      "js": "https://furniture-mods.s3-ap-southeast-1.amazonaws.com/electronic-furniture-add-on-ashwin-furniture/AshwinFurniture.mcaddon",
+
+      "title": "Ashwin: Electronic Furniture Add-on (TV, Comper & MORE)",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "This texture pack removes lagging on slow devices and large maps",
+
+      "img": "https://relaxing.media/addons/shaders/4x4/picture.png",
+
+      "js": "https://relaxing.media/addons/shaders/4x4/4x4_textures.mcpack",
+
+      "title": "4X4 Texture Pack: HIGH FPS!",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Adds beautiful animations to lava, fire and liquids. Also adds shines to metal and ore.",
+
+      "img": "https://relaxing.media/addons/shaders/animated-blocks/picture.jpg",
+
+      "js": "https://relaxing.media/addons/shaders/animated-blocks/bloques-animados-v5-by-dark-gato-mc.mcpack",
+
+      "title": "Dark Gato MC's ANIMATED BLOCKS: Lava, fire and other",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Super realistic graphics for Minecraft Pocket Edition. \nThis texture pack adds realistic textures, light and visual effects to Minecraft Pocket Edition.\nIncluded:\n- snow, dirt, grass;\n- biomes;\n- colored glasses;\n- trees and resources.\n\nThis texture pack adds various sounds and improve gaming atmosphere at a glance.",
+
+      "img": "https://relaxing.media/addons/shaders/fuse-realism/picture.png",
+
+      "js": "https://relaxing.media/addons/shaders/fuse-realism/fuserealism-1_1_9.mcpack",
+
+      "title": "FuseRealism: Realistic Shader",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "A water in the game now looks more realistic. Beautiful sand beaches and oceans blue make a perfect background for your photos in the game and enhance the quality of visuals.",
+
+      "img": "https://relaxing.media/addons/shaders/improved-biomes-water/picture.png",
+
+      "js": "https://relaxing.media/addons/shaders/improved-biomes-water/biomes_water_color.mcpack",
+
+      "title": "Improved Waters and Seas",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Mr Fishy's Wonderful Shader adds realistic look for every object in the game. It provides high quality realistic shaders without downgrade in FPS. Must use!",
+
+      "img": "https://relaxing.media/addons/shaders/mr-fishy/picture.jpg",
+
+      "js": "https://relaxing.media/addons/shaders/mr-fishy/mr-fishys-wonderful-shaders-3_8.mcpack",
+
+      "title": "Mr Fishy's Wonderful Shader: Realistic Textures",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "The texture pack improves landscape blocks and make the gardens decoration look outstanding.\nEnjoy the breath-taking landscapes and an infinite spaces of Minecraft beauty!",
+
+      "img": "https://relaxing.media/addons/shaders/landscapes/picture.png",
+
+      "js": "https://relaxing.media/addons/shaders/landscapes/landscapes-v1_16_0-r-1_1592937012.mcpack",
+
+      "title": "Landscapes: Perfect surroundings",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "This is the texture pack for Bedrock edition that increase the count of pixels in every block. Worth to say, it really makes the game look modern and fancy.",
+
+      "img": "https://relaxing.media/addons/shaders/multipixel/picture.png",
+
+      "js": "https://relaxing.media/addons/shaders/multipixel/multipixel_bedrock_1_16_rv3.mcpack",
+
+      "title": "Multipixel: Slight improvement",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Night Vision Texture Pack makes blocks visible in the darkness. Does not affect other aspects of the game.",
+
+      "img": "https://relaxing.media/addons/shaders/night-vision/picture.jpg",
+
+      "js": "https://relaxing.media/addons/shaders/night-vision/night-vision-pack-1_0_4.mcpack",
+
+      "title": "Night Vision: See in the dark",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "oCd Pack enhance the look, making it more smooth, warm and enjoyable. This pack is the most successful pack in the game.\nNow it is available for Minecraft Pocket Edition and you may enjoy this great improvement in your smartphone game. Early it has been created for Java version only.",
+
+      "img": "https://relaxing.media/addons/shaders/ocd-pack/picture2.png",
+
+      "js": "https://relaxing.media/addons/shaders/ocd-pack/ocd-pe-by-jeridgamer-v1_1_0.mcpack",
+
+      "title": "oCd Pack by Jerid Gamer: Smooth colors",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Maker of this addon was dissatisfied with original Bedrock textures and decided to create his own texture pack, where every block has the equal texture size.\nThis texture pack make the game look consistent and a bit cartoonish. Colors in Minecraft become more bright and saturated by the applying this texture pack.",
+
+      "img": "https://relaxing.media/addons/shaders/true-colors/picture2.jpg",
+
+      "js": "https://relaxing.media/addons/shaders/true-colors/true-colors.mcpack",
+
+      "title": "True Colors: Remove Inconsistency of the Bedrock Edition",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "This MOD adds 809 pokemon and unique attacks and features into Minecraft PE. Get into the giant Pixelmon world after this simple step: just download and open in the MCPE and follow instructions on the web.",
+
+      "img": "https://relaxing.media/addons/Pixelmon/picture.png",
+
+      "js": "https://relaxing.media/addons/Pixelmon/pixelmon.mcaddon",
+
+      "title": "Pixelmon: BP & RP in a single file!",
+
+      "version": ""
+
+    },
+
+    {
+
+      "author": "Kiritocris55",
+
+      "description": "Adds some simple equipment for making wooden furnishings in your buildings. WoodenFurniture is an add-on which adds adds some blocks and replaces a couple of entities with different wooden furniture. The furniture include candle latterns, a green glass bottle, chairs and a few other objects. It’s a great add-on in case you want to expand your options for decorating your worlds.",
+
+      "img": "https://relaxing.media/addons/Wooden-Furniture/picture.jpg",
+
+      "js": "https://relaxing.media/addons/Wooden-Furniture/Wooden-Furnlture.mcaddon",
+
+      "title": "Wooden Furniture Add-on",
+
+      "version": ""
+
+    }
+
+  ]
+
+}
