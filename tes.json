@@ -1,0 +1,61 @@
+{
+	"Ads": [{
+		"select_ads": "STARTAPP",
+		"status_app": "0",
+		"link_redirect": "https://",
+    "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interid": "ca-app-pub-3940256099942544/1033173712",		
+		"admob_openid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+		"startappid": "201669628",
+		"fan_inter": "671249897154829_671256693820816",
+		"fan_banner": "612492376332507_612492762999135",
+		"mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_inter": "24534e1901884e398f1253216226017e",
+		"unityID": "3896203",
+		"unity_inter": "video",
+		"unity_banner": "bannerid",
+		"interval": 3
+	}],
+	"More": [{
+		"title": "Superhero",
+		"image": "https://lh3.googleusercontent.com/7VgABBwmdQ8scsGN_EqiUdX9A2sI5jvJvBRSOpKluli2Vk2Wx5F_AIJXd0jYT0b5fSrPl0zjtIKcJ7Q_XPQ-enuXAP8vCM0Cuw",
+		"link": "https://aliendro.id/"
+	}, {
+		"title": "Villain",
+		"image": "https://lh3.googleusercontent.com/kEBtFPnn-S6W6bXKoxPaNlkn5HlXxvBw1kz_QuWFI_v5gnKFXe3NJPhvCF2FigOkzX0SPeyXp0SQ5oHPwKM2M3uiFEnD70G38PA3",
+		"link": "https://aliendro.id/"
+	}, {
+		"title": "Shinobi",
+		"image": "https://lh3.googleusercontent.com/YXsj7Nzl-FIzukpSG38E_tlrlz6_ayzoOwbscMWbfjOwsA54n2OJXPY30RaR2BblYUhybUYe5I-lVeTWz7ExR7Utxj8tuZLETgc",
+		"link": "https://aliendro.id/"
+	}, {
+		"title": "Pirates",
+		"image": "https://lh3.googleusercontent.com/LY96zFHuQCbRxF0Z5eGfvJqj3eEshwcZ9qEQHmY4HBKlq5JY6FZJPGb_Ze23JUJowTfoKZL1XKGlFZmtC6rhFA",
+		"link": "https://aliendro.id/"
+	}, {
+		"title": "Saiyan",
+		"image": "https://lh3.googleusercontent.com/Lwq6Z56MJxzvbUVXWtOcMgBhJYhpcaYsaFyMlVHwOtkD_o_gjyGM2_dZhvnt5TgQrbcivYj_BesplrHOR3hHWtO_oPyKJmodXrk",
+		"link": "https://aliendro.id/"
+	}, {
+		"title": "Bender",
+		"image": "https://lh3.googleusercontent.com/FhkMHHFQ7y9RXm-EBD5gNxqHezgXaTiNF4CWPTtjZw6ToYpgXNx1bb1St5eaa8u5fToh-OMPUnvznYvywr0APUw",
+		"link": "https://play.google.com/store/apps/details?id=com.alienmcpe.tehlastairbender"
+	}],
+	"Skin": [{
+		"name_skin": "Animatronic",
+		"install": "http://lh3.googleusercontent.com/5jTeLfFWqzrT3ia-c4VFoUFgZCCIQOKDCRONk0rI0GNZAd74mFp4I9sExoR-YsvkvSTza-YtLer-F5YmYvm00A"
+	}, {
+		"name_skin": "Animatronic",
+		"install": "http://lh3.googleusercontent.com/2X8ekLAs-77cYgcUxup5AjFaYa27Cd5H4dafJO2jpsc8IUE2pdqV8RZUxJpYE_B2BiGl_C8TIqOt5bMO78eI"
+	}, {
+		"name_skin": "Animatronic",
+		"install": "http://lh3.googleusercontent.com/JirLs7fx1moHV4xovnj--wBzNojU94KCB74ENxs1hUkYZaIACBMGNEVzbLySATxzrLCUd6P468R_gwoDHocjbck"
+	}, {
+		"name_skin": "Animatronic",
+		"install": "http://lh3.googleusercontent.com/yaj_K2QTdGYq9FRQjKGzDjg8IA3bWCYyKO5r6Gop2to_AlRqRoCBiwSruiH_JZ5VW7yqIselh81tOOkPPCaJy7E"
+	}, {
+		"name_skin": "Animatronic",
+		"install": "https://lh3.googleusercontent.com/dql-toqfH8_DnZK6ao8BRZ8q2nCi0EELm7-LZiySNPWV0hf22IF9v5g6caIxKQPR4JjAKPTraWqrKqtgvCu7"
+	}]
+}
