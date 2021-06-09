@@ -1,6 +1,5 @@
 {
 	"Ads": [{
-		"select_ads": "MOPUB",
 		"status_app": "0",
 		"select_ads": "ADMOB",
 		"link_redirect": "https://",
